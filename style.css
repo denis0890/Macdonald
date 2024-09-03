@@ -1,0 +1,122 @@
+body{
+    padding: 0;
+    margin: 0;
+    
+}
+
+
+.main{
+    height: 100vh;
+    width: 100;
+    background-image: url(/images/pexels-phantomant-1222561.jpg);
+    
+
+    background-size: contain;
+    display:flex;
+    justify-content: center;
+    align-items:center ;
+}
+
+
+
+.container{
+    height: 80%;
+    width:30% ;
+    border:1px  solid black;
+    display:flex ;
+    justify-content: center , continue,or,sign with goggle;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgba(216, 213, 10, 0.932);
+
+
+
+
+
+}
+
+
+.container input{
+    padding: 12px;
+    margin: 20px;
+    width: 65%;
+    border: none;
+    outline: none;
+    border-radius: 20px;
+    box-shadow: cornflowerblue;
+
+
+    
+    
+
+    
+    
+    
+
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
